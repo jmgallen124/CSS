@@ -1,0 +1,47 @@
+/* Jeremy Gallen's
+CSS Examples */
+
+/* body selector */
+body {
+	background-color: purple;
+}
+
+/* paragraph selector */
+p {
+	background-color: lavender;
+	color: red;
+	text-align: center;
+	border: 2px dashed blue;
+	border-radius: 10%;
+	margin: auto;
+	padding: 5px;
+	width: 50%;
+}
+
+/* paragraph hover selector */
+p:hover {
+	color: green;
+}
+
+/* h1 selector */
+h1 {
+	color: gold;
+	text-align: center;
+}
+
+/* hr selector */
+hr {
+	border: 5px solid black;
+}
+
+/* #unique selector */
+#unique
+	{
+		color: lavender;
+	}
+
+/* .group selector */
+.group
+	{
+		color: gray;
+	}
